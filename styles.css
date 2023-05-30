@@ -15,7 +15,7 @@ body {
     'corpo nav'
     'corpo footer'
     ;
-    grid-template-columns: auto 24.5vw;
+    grid-template-columns: auto 428px;
     grid-template-rows: 72px 68.3vh 224px;
 }
 
@@ -88,8 +88,23 @@ body {
     padding-left: 25px;
 }
 
-#nav aside p:last-child {
-    height: 40px;
+#nav aside .conteudo-money {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav aside .conteudo-money div {
+    padding: 0;
+    width: 114.5px;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+#nav aside div img{
+    height: 16px;
 
     font-weight: bold;
 
@@ -212,9 +227,12 @@ body {
         padding-left: 15px;
     }
     
-    #nav aside p:last-child {
-        height: 20px;
-    
+    #nav aside .conteudo-money div {
+    width: 80px;
+}
+
+ #nav aside .conteudo-money div:last-child {
+        width: 60px;
     }
     
     #img-menos {
