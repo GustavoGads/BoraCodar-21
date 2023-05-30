@@ -7,7 +7,7 @@
 É um projeto de um carrinho de compras, podendo ser usado em aplicações web e mobile.
 
 ## ⚙ Tecnologias </> 
-Esse projeto foi desenvolvido durante o desadio do #boraodar #21 da Rocktseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o desafio do #boraodar #21 da Rocktseat com as seguintes tecnologias:
 - HTML
 - CSS
 - Git e Github
