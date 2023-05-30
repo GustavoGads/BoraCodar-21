@@ -228,12 +228,9 @@ body {
     }
     
     #nav aside .conteudo-money div {
-    width: 80px;
+    width: 118.5px;
 }
 
- #nav aside .conteudo-money div:last-child {
-        width: 60px;
-    }
     
     #img-menos {
         border: 1px solid #3F3F46;
